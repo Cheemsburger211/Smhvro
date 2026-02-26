@@ -1,142 +1,153 @@
 UnlockTimeScale() -- Wave: 0,0 | Vtime: 0
 CycleTimeScale() -- Wave: 0,0 | Vtime: 1
 CycleTimeScale() -- Wave: 0,0 | Vtime: 1
-VoteSkipWave(0, 0) -- Vtime: 2
-PlaceTower("Electroshocker", 7.600,0.968,25.368) -- Wave: 0,2 | Vtime: 4
-UpgradeTower(7.600, 25.368) -- Wave: 1,38 | Vtime: 8
-PlaceTower("Electroshocker", 10.920,0.974,27.028) -- Wave: 2,44 | Vtime: 17
-UpgradeTower(10.920, 27.028) -- Wave: 2,26 | Vtime: 26
-PlaceTower("Electroshocker", 7.683,0.971,28.881) -- Wave: 3,44 | Vtime: 29
-UpgradeTower(7.683, 28.881) -- Wave: 3,32 | Vtime: 35
-UpgradeTower(7.600, 25.368) -- Wave: 3,1 | Vtime: 40
-UpgradeTower(10.920, 27.028) -- Wave: 4,2 | Vtime: 50
-UpgradeTower(7.683, 28.881) -- Wave: 6,44 | Vtime: 62
-UpgradeTower(10.920, 27.028) -- Wave: 7,20 | Vtime: 88
-UpgradeTower(7.600, 25.368) -- Wave: 8,2 | Vtime: 104
-UpgradeTower(7.683, 28.881) -- Wave: 10,28 | Vtime: 125
-UpgradeTower(10.920, 27.028) -- Wave: 11,3 | Vtime: 153
-VoteSkipWave(12, 19) -- Vtime: 167
-UpgradeTower(7.600, 25.368) -- Wave: 13,31 | Vtime: 176
-UpgradeTower(7.683, 28.881) -- Wave: 14,3 | Vtime: 200
-PlaceTower("DJ Booth", 10.390,0.968,20.058) -- Wave: 15,56 | Vtime: 203
-UpgradeTower(10.390, 20.058) -- Wave: 15,54 | Vtime: 204
-UpgradeTower(10.390, 20.058) -- Wave: 15,53 | Vtime: 204
-SetTower("Track", "Red", 10.390, 20.058, 206) -- Wave: 15,49 | Vtime: 206
-UpgradeTower(10.390, 20.058) -- Wave: 15,30 | Vtime: 215
-useAbility0("Drop The Beat", 10.390, 20.058, 217) -- Wave: 15,27 | Vtime: 217
-PlaceTower("Ranger", 10.963,4.264,8.186) -- Wave: 15,1 | Vtime: 224
-PlaceTower("Ranger", 14.025,4.409,6.758) -- Wave: 16,2 | Vtime: 240
-PlaceTower("Ranger", 8.059,4.412,6.967) -- Wave: 17,3 | Vtime: 254
-PlaceTower("Ranger", 4.803,4.710,6.038) -- Wave: 18,59 | Vtime: 256
-PlaceTower("Ranger", 12.703,4.314,4.027) -- Wave: 18,39 | Vtime: 265
-PlaceTower("Ranger", 9.142,4.383,3.505) -- Wave: 19,58 | Vtime: 272
-PlaceTower("Ranger", 6.163,4.331,2.653) -- Wave: 19,32 | Vtime: 285
-PlaceTower("Ranger", 2.906,4.826,2.929) -- Wave: 19,2 | Vtime: 293
-UpgradeTower(10.963, 8.185) -- Wave: 20,87 | Vtime: 295
-UpgradeTower(14.025, 6.758) -- Wave: 20,85 | Vtime: 296
-UpgradeTower(8.059, 6.967) -- Wave: 20,84 | Vtime: 297
-UpgradeTower(4.803, 6.038) -- Wave: 20,82 | Vtime: 298
-UpgradeTower(12.703, 4.027) -- Wave: 20,71 | Vtime: 303
-UpgradeTower(9.142, 3.505) -- Wave: 20,52 | Vtime: 312
-UpgradeTower(6.163, 2.653) -- Wave: 20,46 | Vtime: 315
-UpgradeTower(2.906, 2.929) -- Wave: 20,43 | Vtime: 317
-UpgradeTower(10.963, 8.185) -- Wave: 20,4 | Vtime: 319
-UpgradeTower(8.059, 6.967) -- Wave: 21,3 | Vtime: 333
-UpgradeTower(4.803, 6.038) -- Wave: 22,59 | Vtime: 335
-useAbility0("Drop The Beat", 10.390, 20.058, 342) -- Wave: 22,44 | Vtime: 342
-useAbility0("Drop The Beat", 10.390, 20.058, 344) -- Wave: 22,41 | Vtime: 344
-UpgradeTower(14.025, 6.758) -- Wave: 22,36 | Vtime: 346
-UpgradeTower(12.703, 4.027) -- Wave: 22,20 | Vtime: 354
-UpgradeTower(9.142, 3.505) -- Wave: 22,3 | Vtime: 360
-UpgradeTower(6.163, 2.653) -- Wave: 22,2 | Vtime: 360
-UpgradeTower(2.906, 2.929) -- Wave: 23,35 | Vtime: 373
-PlaceTower("Crook Boss", 13.638,0.937,13.795) -- Wave: 24,45 | Vtime: 385
-UpgradeTower(13.638, 13.795) -- Wave: 24,43 | Vtime: 386
-UpgradeTower(13.638, 13.795) -- Wave: 24,43 | Vtime: 386
-UpgradeTower(13.638, 13.795) -- Wave: 25,59 | Vtime: 394
-PlaceTower("Crook Boss", 13.743,0.949,10.628) -- Wave: 25,49 | Vtime: 399
-UpgradeTower(13.743, 10.628) -- Wave: 25,45 | Vtime: 401
-UpgradeTower(13.743, 10.628) -- Wave: 25,42 | Vtime: 402
-UpgradeTower(13.743, 10.628) -- Wave: 25,3 | Vtime: 420
-PlaceTower("Crook Boss", 10.959,0.930,12.197) -- Wave: 26,44 | Vtime: 429
-UpgradeTower(10.959, 12.197) -- Wave: 26,42 | Vtime: 430
-UpgradeTower(10.959, 12.197) -- Wave: 26,37 | Vtime: 432
-UpgradeTower(10.959, 12.197) -- Wave: 26,1 | Vtime: 439
-PlaceTower("Crook Boss", 8.229,0.912,13.724) -- Wave: 27,50 | Vtime: 444
-UpgradeTower(8.229, 13.724) -- Wave: 27,45 | Vtime: 447
-UpgradeTower(8.229, 13.724) -- Wave: 27,42 | Vtime: 448
-useAbility0("Drop The Beat", 10.390, 20.058, 455) -- Wave: 27,29 | Vtime: 455
-UpgradeTower(8.229, 13.724) -- Wave: 27,1 | Vtime: 457
-PlaceTower("Crook Boss", 8.453,0.925,10.298) -- Wave: 28,52 | Vtime: 461
-UpgradeTower(8.453, 10.298) -- Wave: 28,49 | Vtime: 463
-UpgradeTower(8.453, 10.298) -- Wave: 28,46 | Vtime: 464
-useAbility0("Drop The Beat", 10.390, 20.058, 466) -- Wave: 28,42 | Vtime: 466
-useAbility0("Drop The Beat", 10.390, 20.058, 468) -- Wave: 28,39 | Vtime: 468
-UpgradeTower(8.453, 10.298) -- Wave: 28,2 | Vtime: 488
-UpgradeTower(10.390, 20.058) -- Wave: 29,59 | Vtime: 489
-useAbility0("Drop The Beat", 10.390, 20.058, 501) -- Wave: 29,35 | Vtime: 501
-UpgradeTower(10.390, 20.058) -- Wave: 29,32 | Vtime: 502
-UpgradeTower(10.920, 27.028) -- Wave: 30,84 | Vtime: 523
-UpgradeTower(7.683, 28.881) -- Wave: 30,67 | Vtime: 531
-UpgradeTower(7.600, 25.368) -- Wave: 30,1 | Vtime: 536
-useAbility0("Drop The Beat", 10.390, 20.058, 543) -- Wave: 31,78 | Vtime: 543
-useAbility0("Drop The Beat", 10.390, 20.058, 545) -- Wave: 31,74 | Vtime: 545
-UpgradeTower(10.963, 8.185) -- Wave: 31,69 | Vtime: 547
-UpgradeTower(10.963, 8.185) -- Wave: 31,3 | Vtime: 553
-UpgradeTower(14.025, 6.758) -- Wave: 32,80 | Vtime: 559
-UpgradeTower(14.025, 6.758) -- Wave: 32,59 | Vtime: 569
-UpgradeTower(12.703, 4.027) -- Wave: 32,56 | Vtime: 571
-UpgradeTower(12.703, 4.027) -- Wave: 33,75 | Vtime: 584
-UpgradeTower(9.142, 3.505) -- Wave: 33,70 | Vtime: 586
-UpgradeTower(9.142, 3.505) -- Wave: 34,83 | Vtime: 595
-setTarget("Last", 14.025, 6.758, 616) -- Wave: 34,40 | Vtime: 616
-setTarget("Last", 10.963, 8.185, 618) -- Wave: 34,35 | Vtime: 618
-setTarget("Last", 12.703, 4.027, 621) -- Wave: 34,30 | Vtime: 621
-setTarget("Last", 9.142, 3.505, 623) -- Wave: 34,26 | Vtime: 623
-UpgradeTower(8.059, 6.967) -- Wave: 35,147 | Vtime: 628
-UpgradeTower(8.059, 6.967) -- Wave: 35,146 | Vtime: 629
-UpgradeTower(4.803, 6.038) -- Wave: 35,129 | Vtime: 637
-UpgradeTower(4.803, 6.038) -- Wave: 35,127 | Vtime: 638
-UpgradeTower(6.163, 2.653) -- Wave: 35,124 | Vtime: 640
-useAbility0("Drop The Beat", 10.390, 20.058, 646) -- Wave: 35,112 | Vtime: 646
-UpgradeTower(6.163, 2.653) -- Wave: 35,90 | Vtime: 656
-UpgradeTower(2.906, 2.929) -- Wave: 35,87 | Vtime: 657
-useAbility0("Drop The Beat", 10.390, 20.058, 673) -- Wave: 35,56 | Vtime: 673
-UpgradeTower(2.906, 2.929) -- Wave: 35,45 | Vtime: 678
-UpgradeTower(13.743, 10.628) -- Wave: 36,85 | Vtime: 700
-UpgradeTower(13.638, 13.795) -- Wave: 36,58 | Vtime: 713
-UpgradeTower(10.959, 12.197) -- Wave: 36,2 | Vtime: 720
-useAbility0("Drop The Beat", 10.390, 20.058, 736) -- Wave: 37,87 | Vtime: 736
-UpgradeTower(8.453, 10.298) -- Wave: 37,78 | Vtime: 741
-UpgradeTower(8.229, 13.724) -- Wave: 37,68 | Vtime: 746
-PlaceTower("Turret", 4.889,0.911,9.305) -- Wave: 38,147 | Vtime: 753
-UpgradeTower(4.889, 9.305) -- Wave: 38,145 | Vtime: 754
-UpgradeTower(4.889, 9.305) -- Wave: 38,145 | Vtime: 754
-UpgradeTower(4.889, 9.305) -- Wave: 38,143 | Vtime: 755
-UpgradeTower(4.889, 9.305) -- Wave: 38,132 | Vtime: 760
-PlaceTower("Turret", 4.671,0.918,13.518) -- Wave: 38,123 | Vtime: 765
-UpgradeTower(4.671, 13.518) -- Wave: 38,118 | Vtime: 767
-useAbility0("Drop The Beat", 10.390, 20.058, 769) -- Wave: 38,115 | Vtime: 769
-UpgradeTower(4.671, 13.518) -- Wave: 38,112 | Vtime: 770
-UpgradeTower(4.671, 13.518) -- Wave: 38,108 | Vtime: 772
-UpgradeTower(4.671, 13.518) -- Wave: 38,94 | Vtime: 779
-PlaceTower("Turret", 0.932,0.931,11.431) -- Wave: 38,89 | Vtime: 781
-UpgradeTower(0.932, 11.431) -- Wave: 38,87 | Vtime: 782
-setTarget("First", 10.963, 8.185, 788) -- Wave: 38,4 | Vtime: 788
-setTarget("First", 14.025, 6.758, 790) -- Wave: 39,119 | Vtime: 790
-setTarget("First", 12.703, 4.027, 792) -- Wave: 39,115 | Vtime: 792
-setTarget("First", 9.142, 3.505, 795) -- Wave: 39,109 | Vtime: 795
-UpgradeTower(0.932, 11.431) -- Wave: 39,102 | Vtime: 798
-UpgradeTower(0.932, 11.431) -- Wave: 39,102 | Vtime: 798
-UpgradeTower(0.932, 11.431) -- Wave: 39,97 | Vtime: 801
-useAbility0("Drop The Beat", 10.390, 20.058, 808) -- Wave: 39,82 | Vtime: 808
-UpgradeTower(4.671, 13.518) -- Wave: 39,73 | Vtime: 812
-useAbility0("Drop The Beat", 10.390, 20.058, 825) -- Wave: 39,46 | Vtime: 825
-UpgradeTower(0.932, 11.431) -- Wave: 39,2 | Vtime: 830
-UpgradeTower(4.889, 9.305) -- Wave: 40,0 | Vtime: 851
-useAbility0("Drop The Beat", 10.390, 20.058, 864) -- Wave: 40,0 | Vtime: 864
-useAbility0("Drop The Beat", 10.390, 20.058, 879) -- Wave: 40,0 | Vtime: 879
-useAbility0("Drop The Beat", 10.390, 20.058, 894) -- Wave: 40,0 | Vtime: 894
-useAbility0("Drop The Beat", 10.390, 20.058, 898) -- Wave: 40,0 | Vtime: 898
-useAbility0("Drop The Beat", 10.390, 20.058, 943) -- Wave: 40,0 | Vtime: 943
-useAbility0("Drop The Beat", 10.390, 20.058, 944) -- Wave: 40,0 | Vtime: 944
+PlaceTower("Electroshocker", 10.299,0.973,27.669) -- Wave: 0,0 | Vtime: 3
+VoteSkipWave(0, 0) -- Vtime: 4
+UpgradeTower(10.299, 27.669) -- Wave: 0,4 | Vtime: 5
+PlaceTower("Electroshocker", 7.891,0.972,29.721) -- Wave: 1,1 | Vtime: 16
+UpgradeTower(7.891, 29.721) -- Wave: 3,42 | Vtime: 29
+PlaceTower("Electroshocker", 7.482,0.969,26.455) -- Wave: 3,36 | Vtime: 32
+UpgradeTower(7.482, 26.455) -- Wave: 4,36 | Vtime: 41
+UpgradeTower(10.299, 27.669) -- Wave: 4,2 | Vtime: 49
+UpgradeTower(7.482, 26.455) -- Wave: 5,42 | Vtime: 51
+UpgradeTower(7.891, 29.721) -- Wave: 6,44 | Vtime: 61
+UpgradeTower(10.299, 27.669) -- Wave: 7,13 | Vtime: 90
+UpgradeTower(7.482, 26.455) -- Wave: 9,43 | Vtime: 106
+UpgradeTower(7.891, 29.721) -- Wave: 9,1 | Vtime: 117
+VoteSkipWave(11, 13) -- Vtime: 151
+UpgradeTower(10.299, 27.669) -- Wave: 12,43 | Vtime: 154
+VoteSkipWave(12, 19) -- Vtime: 166
+UpgradeTower(7.482, 26.455) -- Wave: 13,2 | Vtime: 181
+UpgradeTower(7.891, 29.721) -- Wave: 14,1 | Vtime: 200
+PlaceTower("DJ Booth", 10.129,0.967,19.795) -- Wave: 15,48 | Vtime: 206
+UpgradeTower(10.129, 19.795) -- Wave: 15,46 | Vtime: 207
+UpgradeTower(10.129, 19.795) -- Wave: 15,44 | Vtime: 208
+SetTower("Track", "Red", 10.129, 19.795, 210) -- Wave: 15,39 | Vtime: 210
+UpgradeTower(10.129, 19.795) -- Wave: 15,31 | Vtime: 214
+useAbility0("Drop The Beat", 10.129, 19.795, 216) -- Wave: 15,26 | Vtime: 216
+PlaceTower("Ranger", 12.291,4.097,8.440) -- Wave: 16,52 | Vtime: 227
+UpgradeTower(12.291, 8.440) -- Wave: 16,46 | Vtime: 230
+UpgradeTower(12.291, 8.440) -- Wave: 17,2 | Vtime: 254
+useAbility0("Drop The Beat", 10.129, 19.795, 260) -- Wave: 18,50 | Vtime: 260
+PlaceTower("Ranger", 9.174,4.205,8.012) -- Wave: 18,46 | Vtime: 262
+UpgradeTower(9.174, 8.012) -- Wave: 18,42 | Vtime: 264
+UpgradeTower(9.174, 8.012) -- Wave: 18,2 | Vtime: 272
+PlaceTower("Ranger", 6.135,4.453,7.033) -- Wave: 19,44 | Vtime: 280
+UpgradeTower(6.135, 7.033) -- Wave: 19,38 | Vtime: 282
+useAbility0("Drop The Beat", 10.129, 19.795, 287) -- Wave: 19,29 | Vtime: 287
+UpgradeTower(6.135, 7.033) -- Wave: 19,2 | Vtime: 295
+PlaceTower("Ranger", 3.172,4.883,5.674) -- Wave: 20,77 | Vtime: 302
+UpgradeTower(3.172, 5.674) -- Wave: 20,73 | Vtime: 304
+useAbility0("Drop The Beat", 10.129, 19.795, 312) -- Wave: 20,58 | Vtime: 312
+UpgradeTower(3.172, 5.674) -- Wave: 20,44 | Vtime: 318
+PlaceTower("Ranger", 13.352,4.306,3.628) -- Wave: 21,53 | Vtime: 324
+UpgradeTower(13.352, 3.628) -- Wave: 21,51 | Vtime: 326
+UpgradeTower(13.352, 3.628) -- Wave: 22,58 | Vtime: 336
+PlaceTower("Ranger", 10.243,4.321,3.403) -- Wave: 22,52 | Vtime: 339
+UpgradeTower(10.243, 3.403) -- Wave: 22,49 | Vtime: 341
+useAbility0("Drop The Beat", 10.129, 19.795, 344) -- Wave: 22,41 | Vtime: 344
+useAbility0("Drop The Beat", 10.129, 19.795, 346) -- Wave: 22,38 | Vtime: 346
+UpgradeTower(10.243, 3.403) -- Wave: 22,33 | Vtime: 348
+PlaceTower("Ranger", 7.247,4.222,2.728) -- Wave: 22,26 | Vtime: 351
+UpgradeTower(7.247, 2.728) -- Wave: 22,24 | Vtime: 353
+UpgradeTower(7.247, 2.728) -- Wave: 22,11 | Vtime: 359
+PlaceTower("Ranger", 4.210,4.521,1.819) -- Wave: 22,1 | Vtime: 362
+UpgradeTower(4.210, 1.819) -- Wave: 23,51 | Vtime: 366
+UpgradeTower(4.210, 1.819) -- Wave: 23,4 | Vtime: 377
+PlaceTower("Crook Boss", 13.436,0.938,13.419) -- Wave: 24,58 | Vtime: 380
+UpgradeTower(13.436, 13.419) -- Wave: 24,56 | Vtime: 381
+UpgradeTower(13.436, 13.419) -- Wave: 24,49 | Vtime: 383
+UpgradeTower(13.436, 13.419) -- Wave: 25,56 | Vtime: 396
+PlaceTower("Crook Boss", 12.620,0.944,10.423) -- Wave: 25,44 | Vtime: 402
+UpgradeTower(12.620, 10.423) -- Wave: 25,42 | Vtime: 403
+useAbility0("Drop The Beat", 10.129, 19.795, 404) -- Wave: 25,40 | Vtime: 404
+useAbility0("Drop The Beat", 10.129, 19.795, 405) -- Wave: 25,38 | Vtime: 405
+UpgradeTower(12.620, 10.423) -- Wave: 25,35 | Vtime: 406
+UpgradeTower(12.620, 10.423) -- Wave: 25,8 | Vtime: 420
+PlaceTower("Crook Boss", 10.459,0.926,12.600) -- Wave: 26,41 | Vtime: 433
+UpgradeTower(10.459, 12.600) -- Wave: 26,39 | Vtime: 434
+UpgradeTower(10.459, 12.600) -- Wave: 26,36 | Vtime: 435
+UpgradeTower(10.459, 12.600) -- Wave: 27,58 | Vtime: 443
+PlaceTower("Crook Boss", 8.359,0.925,10.038) -- Wave: 27,50 | Vtime: 448
+UpgradeTower(8.359, 10.038) -- Wave: 27,47 | Vtime: 449
+UpgradeTower(8.359, 10.038) -- Wave: 27,40 | Vtime: 452
+UpgradeTower(8.359, 10.038) -- Wave: 27,1 | Vtime: 461
+PlaceTower("Crook Boss", 7.407,0.910,13.197) -- Wave: 28,47 | Vtime: 467
+UpgradeTower(7.407, 13.197) -- Wave: 28,45 | Vtime: 469
+UpgradeTower(7.407, 13.197) -- Wave: 28,42 | Vtime: 470
+useAbility0("Drop The Beat", 10.129, 19.795, 474) -- Wave: 28,34 | Vtime: 474
+UpgradeTower(7.407, 13.197) -- Wave: 28,17 | Vtime: 482
+UpgradeTower(10.129, 19.795) -- Wave: 28,4 | Vtime: 489
+UpgradeTower(10.129, 19.795) -- Wave: 29,33 | Vtime: 505
+UpgradeTower(10.299, 27.669) -- Wave: 29,3 | Vtime: 518
+useAbility0("Drop The Beat", 10.129, 19.795, 523) -- Wave: 30,83 | Vtime: 523
+UpgradeTower(7.891, 29.721) -- Wave: 30,69 | Vtime: 529
+UpgradeTower(7.482, 26.455) -- Wave: 30,66 | Vtime: 531
+useAbility0("Drop The Beat", 10.129, 19.795, 545) -- Wave: 31,67 | Vtime: 545
+UpgradeTower(12.291, 8.440) -- Wave: 31,3 | Vtime: 551
+UpgradeTower(12.291, 8.440) -- Wave: 32,89 | Vtime: 553
+UpgradeTower(9.174, 8.012) -- Wave: 32,75 | Vtime: 559
+UpgradeTower(9.174, 8.012) -- Wave: 32,63 | Vtime: 566
+useAbility0("Drop The Beat", 10.129, 19.795, 569) -- Wave: 32,56 | Vtime: 569
+UpgradeTower(6.135, 7.033) -- Wave: 32,1 | Vtime: 575
+UpgradeTower(6.135, 7.033) -- Wave: 33,3 | Vtime: 590
+UpgradeTower(3.172, 5.674) -- Wave: 33,1 | Vtime: 591
+UpgradeTower(3.172, 5.674) -- Wave: 34,72 | Vtime: 600
+useAbility0("Drop The Beat", 10.129, 19.795, 602) -- Wave: 34,68 | Vtime: 602
+UpgradeTower(13.352, 3.628) -- Wave: 34,51 | Vtime: 610
+UpgradeTower(13.352, 3.628) -- Wave: 34,40 | Vtime: 615
+UpgradeTower(10.243, 3.403) -- Wave: 34,32 | Vtime: 619
+setTarget("Last", 12.291, 8.440, 621) -- Wave: 34,29 | Vtime: 621
+setTarget("Last", 9.174, 8.012, 623) -- Wave: 34,1 | Vtime: 623
+setTarget("Last", 6.135, 7.033, 625) -- Wave: 35,146 | Vtime: 625
+setTarget("Last", 3.172, 5.674, 627) -- Wave: 35,142 | Vtime: 627
+UpgradeTower(10.243, 3.403) -- Wave: 35,133 | Vtime: 632
+useAbility0("Drop The Beat", 10.129, 19.795, 635) -- Wave: 35,126 | Vtime: 635
+UpgradeTower(7.247, 2.728) -- Wave: 35,116 | Vtime: 640
+UpgradeTower(7.247, 2.728) -- Wave: 35,96 | Vtime: 650
+UpgradeTower(4.210, 1.819) -- Wave: 35,79 | Vtime: 658
+UpgradeTower(4.210, 1.819) -- Wave: 35,60 | Vtime: 668
+UpgradeTower(13.436, 13.419) -- Wave: 36,69 | Vtime: 702
+UpgradeTower(10.459, 12.600) -- Wave: 36,53 | Vtime: 710
+UpgradeTower(8.359, 10.038) -- Wave: 37,106 | Vtime: 722
+useAbility0("Drop The Beat", 10.129, 19.795, 723) -- Wave: 37,103 | Vtime: 723
+UpgradeTower(12.620, 10.423) -- Wave: 37,90 | Vtime: 730
+UpgradeTower(7.407, 13.197) -- Wave: 37,2 | Vtime: 746
+PlaceTower("Turret", 5.071,0.915,8.528) -- Wave: 38,137 | Vtime: 753
+UpgradeTower(5.071, 8.528) -- Wave: 38,135 | Vtime: 754
+UpgradeTower(5.071, 8.528) -- Wave: 38,134 | Vtime: 754
+UpgradeTower(5.071, 8.528) -- Wave: 38,121 | Vtime: 760
+useAbility0("Drop The Beat", 10.129, 19.795, 767) -- Wave: 38,107 | Vtime: 767
+UpgradeTower(5.071, 8.528) -- Wave: 38,97 | Vtime: 772
+PlaceTower("Turret", 3.966,0.922,12.521) -- Wave: 38,91 | Vtime: 775
+UpgradeTower(3.966, 12.521) -- Wave: 38,88 | Vtime: 776
+UpgradeTower(3.966, 12.521) -- Wave: 38,86 | Vtime: 777
+UpgradeTower(3.966, 12.521) -- Wave: 38,85 | Vtime: 778
+UpgradeTower(3.966, 12.521) -- Wave: 38,82 | Vtime: 779
+PlaceTower("Turret", 1.066,0.910,9.669) -- Wave: 39,114 | Vtime: 784
+UpgradeTower(1.066, 9.669) -- Wave: 39,112 | Vtime: 785
+UpgradeTower(1.066, 9.669) -- Wave: 39,111 | Vtime: 786
+UpgradeTower(1.066, 9.669) -- Wave: 39,108 | Vtime: 787
+UpgradeTower(1.066, 9.669) -- Wave: 39,96 | Vtime: 793
+useAbility0("Drop The Beat", 10.129, 19.795, 796) -- Wave: 39,91 | Vtime: 796
+setTarget("First", 12.291, 8.440, 798) -- Wave: 39,85 | Vtime: 798
+setTarget("First", 9.174, 8.012, 800) -- Wave: 39,82 | Vtime: 800
+setTarget("First", 6.135, 7.033, 803) -- Wave: 39,76 | Vtime: 803
+setTarget("First", 3.172, 5.674, 804) -- Wave: 39,72 | Vtime: 804
+UpgradeTower(5.071, 8.528) -- Wave: 39,54 | Vtime: 813
+UpgradeTower(3.966, 12.521) -- Wave: 39,1 | Vtime: 824
+useAbility0("Drop The Beat", 10.129, 19.795, 840) -- Wave: 40,0 | Vtime: 840
+UpgradeTower(1.066, 9.669) -- Wave: 40,0 | Vtime: 852
+useAbility0("Drop The Beat", 10.129, 19.795, 860) -- Wave: 40,0 | Vtime: 860
+useAbility0("Drop The Beat", 10.129, 19.795, 862) -- Wave: 40,0 | Vtime: 862
+useAbility0("Drop The Beat", 10.129, 19.795, 862) -- Wave: 40,0 | Vtime: 862
+useAbility0("Drop The Beat", 10.129, 19.795, 876) -- Wave: 40,0 | Vtime: 876
+useAbility0("Drop The Beat", 10.129, 19.795, 876) -- Wave: 40,0 | Vtime: 876
+useAbility0("Drop The Beat", 10.129, 19.795, 890) -- Wave: 40,0 | Vtime: 890
+useAbility0("Drop The Beat", 10.129, 19.795, 890) -- Wave: 40,0 | Vtime: 890
+useAbility0("Drop The Beat", 10.129, 19.795, 890) -- Wave: 40,0 | Vtime: 890
+useAbility0("Drop The Beat", 10.129, 19.795, 890) -- Wave: 40,0 | Vtime: 890
+useAbility0("Drop The Beat", 10.129, 19.795, 890) -- Wave: 40,0 | Vtime: 890
+useAbility0("Drop The Beat", 10.129, 19.795, 905) -- Wave: 40,0 | Vtime: 905
+useAbility0("Drop The Beat", 10.129, 19.795, 905) -- Wave: 40,0 | Vtime: 905
+useAbility0("Drop The Beat", 10.129, 19.795, 930) -- Wave: 40,0 | Vtime: 930
