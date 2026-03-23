@@ -140,14 +140,14 @@ setTarget("Last", 11.393, 8.977, 539) -- Wave: 35,142 | Vtime: 539
 UpgradeTower(11.393, 8.977) -- Wave: 35,140 | Vtime: 540
 useAbility0("Call Of Arms", 14.432, 10.250, 550) -- Wave: 35,121 | Vtime: 550
 UpgradeTower(16.613, 7.850) -- Wave: 35,113 | Vtime: 554
-useAbility0("Call Of Arms", 11.346, 10.872, 557) -- Wave: 35,107 | Vtime: 557
-useAbility0("Support Caravan", 8.338, 10.053, 560) -- Wave: 35,101 | Vtime: 560
-useAbility0("Support Caravan", 8.338, 10.053, 560) -- Wave: 35,99 | Vtime: 560
-useAbility0("Support Caravan", 11.346, 10.872, 561) -- Wave: 35,99 | Vtime: 561
-useAbility0("Support Caravan", 11.346, 10.872, 561) -- Wave: 35,99 | Vtime: 561
-useAbility0("Support Caravan", 14.432, 10.250, 561) -- Wave: 35,98 | Vtime: 561
-useAbility0("Support Caravan", 14.432, 10.250, 561) -- Wave: 35,98 | Vtime: 561
-useAbility0("Call Of Arms", 8.338, 10.053, 567) -- Wave: 35,85 | Vtime: 567
+useAbility0("Call Of Arms", 11.346, 10.872, 550) -- Wave: 35,107 | Vtime: 557
+useAbility0("Support Caravan", 8.338, 10.053, 551) -- Wave: 35,101 | Vtime: 560
+useAbility0("Support Caravan", 8.338, 10.053, 552) -- Wave: 35,99 | Vtime: 560
+useAbility0("Support Caravan", 11.346, 10.872, 552) -- Wave: 35,99 | Vtime: 561
+useAbility0("Support Caravan", 11.346, 10.872, 552) -- Wave: 35,99 | Vtime: 561
+useAbility0("Support Caravan", 14.432, 10.250, 552) -- Wave: 35,98 | Vtime: 561
+useAbility0("Support Caravan", 14.432, 10.250, 552) -- Wave: 35,98 | Vtime: 561
+useAbility0("Call Of Arms", 8.338, 10.053, 560) -- Wave: 35,85 | Vtime: 567
 UpgradeTower(6.385, 5.150) -- Wave: 35,77 | Vtime: 572
 UpgradeTower(5.271, 2.070) -- Wave: 35,73 | Vtime: 573
 UpgradeTower(2.177, 2.576) -- Wave: 35,71 | Vtime: 575
