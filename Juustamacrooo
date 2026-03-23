@@ -46,7 +46,6 @@ UpgradeTower(11.393, 8.977) -- Wave: 21,58 | Vtime: 269
 PlaceTower("Ranger", 14.012, 4.375, 7.226) -- Wave: 21,50 | Vtime: 272
 UpgradeTower(14.012, 7.226) -- Wave: 21,48 | Vtime: 273
 UpgradeTower(14.012, 7.226) -- Wave: 21,47 | Vtime: 274
-UpgradeTower(14.012, 7.226) -- Wave: 21,44 | Vtime: 275
 PlaceTower("Ranger", 13.539, 4.328, 3.979) -- Wave: 21,37 | Vtime: 279
 UpgradeTower(13.539, 3.979) -- Wave: 21,3 | Vtime: 286
 UpgradeTower(13.539, 3.979) -- Wave: 22,49 | Vtime: 293
@@ -72,7 +71,6 @@ UpgradeTower(14.432, 10.250) -- Wave: 25,37 | Vtime: 357
 UpgradeTower(14.432, 10.250) -- Wave: 25,37 | Vtime: 357
 UpgradeTower(14.432, 10.250) -- Wave: 25,37 | Vtime: 357
 UpgradeTower(14.432, 10.250) -- Wave: 25,36 | Vtime: 357
-UpgradeTower(14.432, 10.250) -- Wave: 25,3 | Vtime: 359
 useAbility0("Call Of Arms", 14.432, 10.250, 365) -- Wave: 26,51 | Vtime: 365
 UpgradeTower(11.393, 8.977) -- Wave: 27,55 | Vtime: 376
 UpgradeTower(11.159, 5.990) -- Wave: 27,53 | Vtime: 377
