@@ -249,8 +249,8 @@ useAbility0("Support Caravan", -4.656, 8.636, 769) -- Wave: 40,0 | Vtime: 769
 useAbility0("Support Caravan", -4.656, 8.636, 769) -- Wave: 40,0 | Vtime: 769
 useAbility0("Support Caravan", -4.718, 2.404, 769) -- Wave: 40,0 | Vtime: 769
 useAbility0("Call Of Arms", 14.432, 10.250, 770) -- Wave: 40,0 | Vtime: 770
-useAbility3("Hologram Tower", 16.613, 7.850, 5.744, 12.306, 10.093, 0.020, 777) -- Wave: 40,0 | Vtime: 777
-useAbility3("Hologram Tower", 8.168, 27.241, 5.744, 12.306, 6.758, -1.241, 782) -- Wave: 40,0 | Vtime: 782
+useAbility3("Hologram Tower", 16.613, 7.850, 5.744, 12.306, 10.093, 0.020, 787) -- Wave: 40,0 | Vtime: 777
+useAbility3("Hologram Tower", 8.168, 27.241, 5.744, 12.306, 6.758, -1.241, 792) -- Wave: 40,0 | Vtime: 782
 useAbility0("Call Of Arms", 8.338, 10.053, 783) -- Wave: 40,0 | Vtime: 783
 useAbility0("Call Of Arms", 11.346, 10.872, 790) -- Wave: 40,0 | Vtime: 790
 useAbility0("Call Of Arms", 14.432, 10.250, 796) -- Wave: 40,0 | Vtime: 796
@@ -268,8 +268,8 @@ useAbility0("Support Caravan", -4.718, 2.404, 799) -- Wave: 40,0 | Vtime: 799
 useAbility0("Call Of Arms", 8.338, 10.053, 802) -- Wave: 40,0 | Vtime: 802
 useAbility0("Call Of Arms", -4.656, 8.636, 809) -- Wave: 40,0 | Vtime: 809
 useAbility0("Call Of Arms", -4.766, 5.507, 816) -- Wave: 40,0 | Vtime: 816
-useAbility3("Hologram Tower", 8.168, 27.241, 2.430, 10.704, 18.393, 11.141, 818) -- Wave: 40,0 | Vtime: 818
-useAbility3("Hologram Tower", 16.613, 7.850, 13.467, 13.536, 17.282, 14.859, 821) -- Wave: 40,0 | Vtime: 821
+useAbility3("Hologram Tower", 8.168, 27.241, 2.430, 10.704, 18.393, 11.141, 828) -- Wave: 40,0 | Vtime: 818
+useAbility3("Hologram Tower", 16.613, 7.850, 13.467, 13.536, 17.282, 14.859, 831) -- Wave: 40,0 | Vtime: 821
 useAbility0("Call Of Arms", 8.338, 10.053, 822) -- Wave: 40,0 | Vtime: 822
 useAbility0("Support Caravan", -4.656, 8.636, 826) -- Wave: 40,0 | Vtime: 826
 useAbility0("Support Caravan", -4.766, 5.507, 827) -- Wave: 40,0 | Vtime: 827
