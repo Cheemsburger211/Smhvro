@@ -283,3 +283,20 @@ useAbility0("Support Caravan", 11.346, 10.872, 828) -- Wave: 40,0 | Vtime: 828
 useAbility0("Support Caravan", 14.432, 10.250, 829) -- Wave: 40,0 | Vtime: 829
 useAbility0("Support Caravan", 14.432, 10.250, 829) -- Wave: 40,0 | Vtime: 829
 useAbility0("Support Caravan", 14.432, 10.250, 829) -- Wave: 40,0 | Vtime: 829
+useAbility0("Support Caravan", -4.656, 8.636, 860) -- Wave: 40,0 | Vtime: 826
+useAbility0("Support Caravan", -4.766, 5.507, 860) -- Wave: 40,0 | Vtime:  860
+useAbility0("Support Caravan", -4.766, 5.507, 860) -- Wave: 40,0 | Vtime:  860
+useAbility0("Support Caravan", 8.338, 10.053, 860) -- Wave: 40,0 | Vtime:  860
+useAbility0("Support Caravan", 8.338, 10.053, 860) -- Wave: 40,0 | Vtime:  860
+useAbility0("Support Caravan", -4.718, 2.404, 861) -- Wave: 40,0 | Vtime: 861
+useAbility0("Support Caravan", -4.718, 2.404, 861) -- Wave: 40,0 | Vtime: 861
+useAbility0("Support Caravan", 11.346, 10.872, 861) -- Wave: 40,0 | Vtime: 861
+useAbility0("Support Caravan", 11.346, 10.872, 861) -- Wave: 40,0 | Vtime: 861
+useAbility0("Support Caravan", 14.432, 10.250, 862) -- Wave: 40,0 | Vtime: 862
+useAbility0("Support Caravan", 14.432, 10.250, 862) -- Wave: 40,0 | Vtime: 862
+useAbility0("Support Caravan", 14.432, 10.250, 862) -- Wave: 40,0 | Vtime: 862
+useAbility0("Call Of Arms", 8.338, 10.053, 863) -- Wave: 40,0 | Vtime: 802
+useAbility0("Call Of Arms", -4.656, 8.636, 863) -- Wave: 40,0 | Vtime: 809
+useAbility0("Call Of Arms", -4.766, 5.507, 863) -- Wave: 40,0 | Vtime: 816
+useAbility0("Call Of Arms", 11.346, 10.872, 863) -- Wave: 40,0 | Vtime: 790
+useAbility0("Call Of Arms", 14.432, 10.250, 863) -- Wave: 40,0 | Vtime: 796
