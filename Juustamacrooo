@@ -2,301 +2,295 @@ UnlockTimeScale()
 CycleTimeScale()
 CycleTimeScale()
 VoteSkipWave(0, 0) -- Wave: 0,0 | Vtime: 2
-PlaceTower("Cowboy", 10.451, 0.967, 19.909) -- Wave: 0,0 | Vtime: 5
-UpgradeTower(10.451, 19.909) -- Wave: 1,28 | Vtime: 13
-PlaceTower("Cowboy", 10.372, 0.970, 22.622) -- Wave: 1,1 | Vtime: 17
-PlaceTower("Cowboy", 10.218, 0.971, 25.190) -- Wave: 3,44 | Vtime: 27
-UpgradeTower(10.218, 25.190) -- Wave: 3,41 | Vtime: 28
-PlaceTower("Cowboy", 12.912, 0.975, 24.968) -- Wave: 3,3 | Vtime: 36
-UpgradeTower(12.912, 24.968) -- Wave: 4,43 | Vtime: 37
-PlaceTower("Cowboy", 15.407, 0.978, 24.793) -- Wave: 4,37 | Vtime: 40
-UpgradeTower(15.407, 24.793) -- Wave: 4,4 | Vtime: 43
-PlaceTower("Cowboy", 17.962, 0.981, 24.534) -- Wave: 5,44 | Vtime: 45
-UpgradeTower(17.962, 24.534) -- Wave: 5,42 | Vtime: 46
-PlaceTower("Hacker", 8.168, 0.970, 27.241) -- Wave: 6,44 | Vtime: 55
-UpgradeTower(8.168, 27.241) -- Wave: 6,41 | Vtime: 57
-UpgradeTower(8.168, 27.241) -- Wave: 6,30 | Vtime: 62
-UpgradeTower(10.451, 19.909) -- Wave: 7,44 | Vtime: 66
-UpgradeTower(10.372, 22.622) -- Wave: 7,38 | Vtime: 69
-UpgradeTower(10.372, 22.622) -- Wave: 7,34 | Vtime: 71
-UpgradeTower(10.218, 25.190) -- Wave: 8,44 | Vtime: 84
-UpgradeTower(12.912, 24.968) -- Wave: 8,41 | Vtime: 85
-UpgradeTower(15.407, 24.793) -- Wave: 8,39 | Vtime: 86
-UpgradeTower(17.962, 24.534) -- Wave: 8,3 | Vtime: 91
-UpgradeTower(10.451, 19.909) -- Wave: 9,29 | Vtime: 100
-UpgradeTower(10.372, 22.622) -- Wave: 10,33 | Vtime: 109
-UpgradeTower(10.218, 25.190) -- Wave: 11,43 | Vtime: 118
-UpgradeTower(12.912, 24.968) -- Wave: 12,42 | Vtime: 131
-UpgradeTower(15.407, 24.793) -- Wave: 12,35 | Vtime: 135
-UpgradeTower(17.962, 24.534) -- Wave: 12,3 | Vtime: 142
-UpgradeTower(10.451, 19.909) -- Wave: 13,4 | Vtime: 150
-UpgradeTower(10.372, 22.622) -- Wave: 14,30 | Vtime: 159
-UpgradeTower(10.218, 25.190) -- Wave: 14,2 | Vtime: 166
-UpgradeTower(12.912, 24.968) -- Wave: 15,43 | Vtime: 175
-UpgradeTower(15.407, 24.793) -- Wave: 15,24 | Vtime: 185
-UpgradeTower(17.962, 24.534) -- Wave: 16,56 | Vtime: 191
-UpgradeTower(8.168, 27.241) -- Wave: 16,47 | Vtime: 196
-UpgradeTower(10.218, 25.190) -- Wave: 18,50 | Vtime: 216
-UpgradeTower(12.912, 24.968) -- Wave: 19,51 | Vtime: 227
-UpgradeTower(15.407, 24.793) -- Wave: 19,4 | Vtime: 242
-UpgradeTower(17.962, 24.534) -- Wave: 20,61 | Vtime: 257
-PlaceTower("Ranger", 11.393, 3.988, 8.977) -- Wave: 20,1 | Vtime: 268
-UpgradeTower(11.393, 8.977) -- Wave: 21,58 | Vtime: 268
-UpgradeTower(11.393, 8.977) -- Wave: 21,58 | Vtime: 269
-PlaceTower("Ranger", 14.012, 4.375, 7.226) -- Wave: 21,50 | Vtime: 272
-UpgradeTower(14.012, 7.226) -- Wave: 21,48 | Vtime: 273
-UpgradeTower(14.012, 7.226) -- Wave: 21,47 | Vtime: 274
-PlaceTower("Ranger", 13.539, 4.328, 3.979) -- Wave: 21,37 | Vtime: 279
-UpgradeTower(13.539, 3.979) -- Wave: 21,3 | Vtime: 286
-UpgradeTower(13.539, 3.979) -- Wave: 22,49 | Vtime: 293
-UpgradeTower(10.451, 19.909) -- Wave: 22,31 | Vtime: 302
-UpgradeTower(10.372, 22.622) -- Wave: 23,48 | Vtime: 314
-PlaceTower("Ranger", 11.159, 4.486, 5.990) -- Wave: 23,44 | Vtime: 316
-UpgradeTower(11.159, 5.990) -- Wave: 23,42 | Vtime: 317
-UpgradeTower(11.159, 5.990) -- Wave: 23,40 | Vtime: 318
-PlaceTower("Ranger", 2.177, 4.858, 2.576) -- Wave: 23,3 | Vtime: 320
-UpgradeTower(2.177, 2.576) -- Wave: 23,1 | Vtime: 321
-UpgradeTower(2.177, 2.576) -- Wave: 24,59 | Vtime: 321
-PlaceTower("Ranger", 3.351, 4.882, 5.496) -- Wave: 24,54 | Vtime: 324
-UpgradeTower(3.351, 5.496) -- Wave: 24,49 | Vtime: 326
-UpgradeTower(3.351, 5.496) -- Wave: 24,41 | Vtime: 330
-PlaceTower("Ranger", 5.271, 4.375, 2.070) -- Wave: 24,33 | Vtime: 334
-UpgradeTower(5.271, 2.070) -- Wave: 24,28 | Vtime: 337
-UpgradeTower(5.271, 2.070) -- Wave: 24,19 | Vtime: 341
-PlaceTower("Ranger", 6.385, 4.639, 5.150) -- Wave: 24,2 | Vtime: 345
-UpgradeTower(6.385, 5.150) -- Wave: 24,1 | Vtime: 345
-UpgradeTower(6.385, 5.150) -- Wave: 25,49 | Vtime: 351
-PlaceTower("Commander", 14.432, 0.953, 10.250) -- Wave: 25,39 | Vtime: 356
-UpgradeTower(14.432, 10.250) -- Wave: 25,37 | Vtime: 357
-UpgradeTower(14.432, 10.250) -- Wave: 25,37 | Vtime: 357
-UpgradeTower(14.432, 10.250) -- Wave: 25,37 | Vtime: 357
-UpgradeTower(14.432, 10.250) -- Wave: 25,36 | Vtime: 357
-useAbility0("Call Of Arms", 14.432, 10.250, 365) -- Wave: 26,51 | Vtime: 365
-UpgradeTower(11.393, 8.977) -- Wave: 27,55 | Vtime: 376
-UpgradeTower(11.159, 5.990) -- Wave: 27,53 | Vtime: 377
-UpgradeTower(13.539, 3.979) -- Wave: 27,46 | Vtime: 381
-useAbility0("Call Of Arms", 14.432, 10.250, 386) -- Wave: 27,36 | Vtime: 386
-UpgradeTower(14.012, 7.226) -- Wave: 27,3 | Vtime: 389
-UpgradeTower(6.385, 5.150) -- Wave: 28,55 | Vtime: 393
-useAbility0("Call Of Arms", 14.432, 10.250, 400) -- Wave: 28,42 | Vtime: 400
-UpgradeTower(3.351, 5.496) -- Wave: 28,39 | Vtime: 401
-UpgradeTower(5.271, 2.070) -- Wave: 28,29 | Vtime: 406
-UpgradeTower(2.177, 2.576) -- Wave: 28,4 | Vtime: 411
-PlaceTower("Commander", 11.346, 0.936, 10.872) -- Wave: 29,50 | Vtime: 417
-UpgradeTower(11.346, 10.872) -- Wave: 29,48 | Vtime: 418
-UpgradeTower(11.346, 10.872) -- Wave: 29,47 | Vtime: 419
-UpgradeTower(11.346, 10.872) -- Wave: 29,46 | Vtime: 419
-UpgradeTower(11.346, 10.872) -- Wave: 29,44 | Vtime: 420
-useAbility0("Call Of Arms", 11.346, 10.872, 422) -- Wave: 29,40 | Vtime: 422
-PlaceTower("Commander", 8.338, 0.925, 10.053) -- Wave: 29,36 | Vtime: 424
-UpgradeTower(8.338, 10.053) -- Wave: 29,33 | Vtime: 425
-UpgradeTower(8.338, 10.053) -- Wave: 29,32 | Vtime: 426
-UpgradeTower(8.338, 10.053) -- Wave: 29,30 | Vtime: 427
-useAbility0("Call Of Arms", 8.338, 10.053, 429) -- Wave: 29,25 | Vtime: 429
-UpgradeTower(8.338, 10.053) -- Wave: 29,15 | Vtime: 434
-PlaceTower("Hacker", 16.613, 0.972, 7.850) -- Wave: 30,78 | Vtime: 443
-UpgradeTower(16.613, 7.850) -- Wave: 30,76 | Vtime: 444
-UpgradeTower(16.613, 7.850) -- Wave: 30,75 | Vtime: 444
-UpgradeTower(16.613, 7.850) -- Wave: 30,74 | Vtime: 444
-useAbility0("Call Of Arms", 11.346, 10.872, 445) -- Wave: 30,72 | Vtime: 445
-PlaceTower("Accelerator", 13.467, 0.937, 13.536) -- Wave: 31,78 | Vtime: 456
-UpgradeTower(13.467, 13.536) -- Wave: 31,75 | Vtime: 457
-UpgradeTower(13.467, 13.536) -- Wave: 31,75 | Vtime: 457
-UpgradeTower(13.467, 13.536) -- Wave: 31,72 | Vtime: 458
-UpgradeTower(13.467, 13.536) -- Wave: 31,69 | Vtime: 460
-useAbility0("Call Of Arms", 11.346, 10.872, 461) -- Wave: 31,67 | Vtime: 461
-PlaceTower("Accelerator", 9.299, 0.918, 13.407) -- Wave: 32,88 | Vtime: 468
-UpgradeTower(9.299, 13.407) -- Wave: 32,86 | Vtime: 469
-UpgradeTower(9.299, 13.407) -- Wave: 32,86 | Vtime: 469
-UpgradeTower(9.299, 13.407) -- Wave: 32,85 | Vtime: 469
-UpgradeTower(9.299, 13.407) -- Wave: 32,83 | Vtime: 470
-useAbility0("Call Of Arms", 8.338, 10.053, 472) -- Wave: 32,80 | Vtime: 472
-useAbility0("Call Of Arms", 11.346, 10.872, 478) -- Wave: 32,68 | Vtime: 478
-PlaceTower("Accelerator", 5.363, 0.916, 8.631) -- Wave: 32,55 | Vtime: 484
-UpgradeTower(5.363, 8.631) -- Wave: 32,52 | Vtime: 485
-UpgradeTower(5.363, 8.631) -- Wave: 32,52 | Vtime: 485
-UpgradeTower(5.363, 8.631) -- Wave: 32,50 | Vtime: 486
-UpgradeTower(5.363, 8.631) -- Wave: 32,49 | Vtime: 487
-PlaceTower("Accelerator", 5.744, 0.912, 12.306) -- Wave: 32,3 | Vtime: 491
-UpgradeTower(5.744, 12.306) -- Wave: 32,1 | Vtime: 493
-UpgradeTower(5.744, 12.306) -- Wave: 33,89 | Vtime: 493
-UpgradeTower(5.744, 12.306) -- Wave: 33,88 | Vtime: 494
-useAbility0("Call Of Arms", 11.346, 10.872, 496) -- Wave: 33,83 | Vtime: 496
-UpgradeTower(5.744, 12.306) -- Wave: 33,74 | Vtime: 501
-PlaceTower("Accelerator", 2.430, 0.931, 10.704) -- Wave: 33,3 | Vtime: 506
-UpgradeTower(2.430, 10.704) -- Wave: 33,1 | Vtime: 507
-UpgradeTower(2.430, 10.704) -- Wave: 34,89 | Vtime: 507
-UpgradeTower(2.430, 10.704) -- Wave: 34,88 | Vtime: 508
-UpgradeTower(2.430, 10.704) -- Wave: 34,76 | Vtime: 514
-useAbility0("Call Of Arms", 11.346, 10.872, 516) -- Wave: 34,73 | Vtime: 516
-useAbility0("Call Of Arms", 14.432, 10.250, 521) -- Wave: 34,61 | Vtime: 521
-UpgradeTower(13.539, 3.979) -- Wave: 34,50 | Vtime: 526
-UpgradeTower(14.012, 7.226) -- Wave: 34,43 | Vtime: 529
-setTarget("Last", 14.012, 7.226, 534) -- Wave: 34,5 | Vtime: 534
-setTarget("Last", 13.539, 3.979, 536) -- Wave: 34,1 | Vtime: 536
-setTarget("Last", 11.159, 5.990, 537) -- Wave: 35,147 | Vtime: 537
-UpgradeTower(11.159, 5.990) -- Wave: 35,146 | Vtime: 538
-setTarget("Last", 11.393, 8.977, 539) -- Wave: 35,142 | Vtime: 539
-UpgradeTower(11.393, 8.977) -- Wave: 35,140 | Vtime: 540
-useAbility0("Call Of Arms", 14.432, 10.250, 550) -- Wave: 35,121 | Vtime: 550
-UpgradeTower(16.613, 7.850) -- Wave: 35,113 | Vtime: 554
-useAbility0("Call Of Arms", 11.346, 10.872, 550) -- Wave: 35,107 | Vtime: 557
-useAbility0("Support Caravan", 8.338, 10.053, 551) -- Wave: 35,101 | Vtime: 560
-useAbility0("Support Caravan", 8.338, 10.053, 552) -- Wave: 35,99 | Vtime: 560
-useAbility0("Support Caravan", 11.346, 10.872, 552) -- Wave: 35,99 | Vtime: 561
-useAbility0("Support Caravan", 11.346, 10.872, 552) -- Wave: 35,99 | Vtime: 561
-useAbility0("Support Caravan", 14.432, 10.250, 552) -- Wave: 35,98 | Vtime: 561
-useAbility0("Support Caravan", 14.432, 10.250, 552) -- Wave: 35,98 | Vtime: 561
-useAbility0("Call Of Arms", 8.338, 10.053, 560) -- Wave: 35,85 | Vtime: 567
-UpgradeTower(6.385, 5.150) -- Wave: 35,77 | Vtime: 572
-UpgradeTower(5.271, 2.070) -- Wave: 35,73 | Vtime: 573
-UpgradeTower(2.177, 2.576) -- Wave: 35,71 | Vtime: 575
-useAbility0("Call Of Arms", 11.346, 10.872, 577) -- Wave: 35,66 | Vtime: 577
-UpgradeTower(3.351, 5.496) -- Wave: 35,60 | Vtime: 580
-setTarget("First", 11.393, 8.977, 583) -- Wave: 35,54 | Vtime: 583
-setTarget("First", 11.159, 5.990, 585) -- Wave: 35,50 | Vtime: 585
-setTarget("First", 13.539, 3.979, 587) -- Wave: 35,1 | Vtime: 587
-setTarget("First", 14.012, 7.226, 590) -- Wave: 36,85 | Vtime: 590
-useAbility0("Call Of Arms", 8.338, 10.053, 592) -- Wave: 36,80 | Vtime: 592
-useAbility0("Call Of Arms", 11.346, 10.872, 599) -- Wave: 36,66 | Vtime: 599
-UpgradeTower(8.168, 27.241) -- Wave: 36,58 | Vtime: 602
-UpgradeTower(13.467, 13.536) -- Wave: 36,5 | Vtime: 607
-UpgradeTower(9.299, 13.407) -- Wave: 37,119 | Vtime: 609
-useAbility0("Call Of Arms", 8.338, 10.053, 610) -- Wave: 37,117 | Vtime: 610
-UpgradeTower(5.744, 12.306) -- Wave: 37,4 | Vtime: 628
-UpgradeTower(2.430, 10.704) -- Wave: 38,148 | Vtime: 630
-UpgradeTower(5.363, 8.631) -- Wave: 38,143 | Vtime: 633
-useAbility0("Call Of Arms", 8.338, 10.053, 637) -- Wave: 38,134 | Vtime: 637
-UpgradeTower1(8.168, 27.241) -- Wave: 38,123 | Vtime: 643
-useAbility0("Call Of Arms", 14.432, 10.250, 646) -- Wave: 38,116 | Vtime: 646
-UpgradeTower1(16.613, 7.850) -- Wave: 38,102 | Vtime: 653
-useAbility0("Support Caravan", 8.338, 10.053, 654) -- Wave: 38,99 | Vtime: 654
-useAbility0("Support Caravan", 8.338, 10.053, 654) -- Wave: 38,99 | Vtime: 654
-useAbility0("Support Caravan", 11.346, 10.872, 654) -- Wave: 38,99 | Vtime: 654
-useAbility0("Support Caravan", 11.346, 10.872, 654) -- Wave: 38,98 | Vtime: 654
-useAbility0("Support Caravan", 14.432, 10.250, 654) -- Wave: 38,98 | Vtime: 654
-useAbility0("Support Caravan", 14.432, 10.250, 655) -- Wave: 38,98 | Vtime: 655
-PlaceTower("Commander", -4.656, 0.923, 8.636) -- Wave: 39,106 | Vtime: 672
-PlaceTower("Commander", -4.766, 0.934, 5.507) -- Wave: 39,103 | Vtime: 674
-PlaceTower("Commander", -4.718, 0.944, 2.404) -- Wave: 39,93 | Vtime: 679
-UpgradeTower(-4.718, 2.404) -- Wave: 39,90 | Vtime: 680
-UpgradeTower(-4.718, 2.404) -- Wave: 39,89 | Vtime: 680
-UpgradeTower(-4.718, 2.404) -- Wave: 39,89 | Vtime: 681
-UpgradeTower(-4.718, 2.404) -- Wave: 39,89 | Vtime: 681
-UpgradeTower(-4.718, 2.404) -- Wave: 39,88 | Vtime: 681
-UpgradeTower(-4.718, 2.404) -- Wave: 39,88 | Vtime: 681
-UpgradeTower(-4.718, 2.404) -- Wave: 39,88 | Vtime: 681
-UpgradeTower(-4.766, 5.507) -- Wave: 39,87 | Vtime: 682
-UpgradeTower(-4.766, 5.507) -- Wave: 39,85 | Vtime: 683
-UpgradeTower(-4.766, 5.507) -- Wave: 39,85 | Vtime: 683
-UpgradeTower(-4.766, 5.507) -- Wave: 39,85 | Vtime: 683
-UpgradeTower(-4.766, 5.507) -- Wave: 39,85 | Vtime: 683
-UpgradeTower(-4.766, 5.507) -- Wave: 39,84 | Vtime: 683
-UpgradeTower(-4.766, 5.507) -- Wave: 39,84 | Vtime: 683
-UpgradeTower(-4.766, 5.507) -- Wave: 39,84 | Vtime: 683
-UpgradeTower(-4.656, 8.636) -- Wave: 39,81 | Vtime: 684
-UpgradeTower(-4.656, 8.636) -- Wave: 39,81 | Vtime: 684
-UpgradeTower(-4.656, 8.636) -- Wave: 39,80 | Vtime: 685
-UpgradeTower(-4.656, 8.636) -- Wave: 39,80 | Vtime: 685
-UpgradeTower(-4.656, 8.636) -- Wave: 39,80 | Vtime: 685
-UpgradeTower(-4.656, 8.636) -- Wave: 39,80 | Vtime: 685
-UpgradeTower(-4.656, 8.636) -- Wave: 39,80 | Vtime: 685
-UpgradeTower(-4.656, 8.636) -- Wave: 39,80 | Vtime: 685
-useAbility0("Call Of Arms", -4.766, 5.507, 687) -- Wave: 39,75 | Vtime: 687
-useAbility0("Call Of Arms", 8.338, 10.053, 694) -- Wave: 39,58 | Vtime: 694
-useAbility0("Support Caravan", 11.346, 10.872, 698) -- Wave: 39,51 | Vtime: 698
-useAbility0("Support Caravan", 11.346, 10.872, 698) -- Wave: 39,50 | Vtime: 698
-useAbility0("Support Caravan", 11.346, 10.872, 699) -- Wave: 39,50 | Vtime: 699
-useAbility0("Support Caravan", 14.432, 10.250, 699) -- Wave: 39,50 | Vtime: 699
-useAbility0("Support Caravan", 8.338, 10.053, 699) -- Wave: 39,49 | Vtime: 699
-useAbility0("Support Caravan", 8.338, 10.053, 699) -- Wave: 39,49 | Vtime: 699
-useAbility0("Support Caravan", -4.656, 8.636, 699) -- Wave: 39,48 | Vtime: 699
-useAbility0("Support Caravan", -4.656, 8.636, 699) -- Wave: 39,48 | Vtime: 699
-useAbility0("Support Caravan", -4.766, 5.507, 700) -- Wave: 39,48 | Vtime: 700
-useAbility0("Support Caravan", -4.766, 5.507, 700) -- Wave: 39,47 | Vtime: 700
-useAbility0("Support Caravan", -4.718, 2.404, 700) -- Wave: 39,47 | Vtime: 700
-useAbility0("Support Caravan", -4.718, 2.404, 700) -- Wave: 39,47 | Vtime: 700
-useAbility3("Hologram Tower", 16.613, 7.850, 13.467, 13.536, 19.094, 10.202, 707) -- Wave: 40,0 | Vtime: 707
-useAbility3("Hologram Tower", 8.168, 27.241, 13.467, 13.536, 17.023, 13.254, 711) -- Wave: 40,0 | Vtime: 711
-useAbility0("Call Of Arms", 14.432, 10.250, 714) -- Wave: 40,0 | Vtime: 714
-useAbility0("Call Of Arms", 11.346, 10.872, 734) -- Wave: 40,0 | Vtime: 734
-useAbility0("Support Caravan", 11.346, 10.872, 735) -- Wave: 40,0 | Vtime: 735
-useAbility0("Support Caravan", 11.346, 10.872, 735) -- Wave: 40,0 | Vtime: 735
-useAbility0("Support Caravan", 14.432, 10.250, 735) -- Wave: 40,0 | Vtime: 735
-useAbility0("Support Caravan", 14.432, 10.250, 736) -- Wave: 40,0 | Vtime: 736
-useAbility0("Support Caravan", 8.338, 10.053, 736) -- Wave: 40,0 | Vtime: 736
-useAbility0("Support Caravan", 8.338, 10.053, 736) -- Wave: 40,0 | Vtime: 736
-useAbility0("Support Caravan", -4.656, 8.636, 736) -- Wave: 40,0 | Vtime: 736
-useAbility0("Support Caravan", -4.656, 8.636, 736) -- Wave: 40,0 | Vtime: 736
-useAbility0("Support Caravan", -4.656, 8.636, 736) -- Wave: 40,0 | Vtime: 736
-useAbility0("Support Caravan", -4.656, 8.636, 737) -- Wave: 40,0 | Vtime: 737
-useAbility0("Support Caravan", -4.656, 8.636, 737) -- Wave: 40,0 | Vtime: 737
-useAbility0("Support Caravan", -4.766, 5.507, 737) -- Wave: 40,0 | Vtime: 737
-useAbility0("Support Caravan", -4.718, 2.404, 737) -- Wave: 40,0 | Vtime: 737
-useAbility0("Support Caravan", -4.718, 2.404, 737) -- Wave: 40,0 | Vtime: 737
-useAbility3("Hologram Tower", 16.613, 7.850, 13.467, 13.536, 13.401, 1.476, 744) -- Wave: 40,0 | Vtime: 744
-useAbility0("Call Of Arms", 14.432, 10.250, 748) -- Wave: 40,0 | Vtime: 748
-useAbility0("Call Of Arms", 11.346, 10.872, 753) -- Wave: 40,0 | Vtime: 753
-useAbility3("Hologram Tower", 8.168, 27.241, 13.467, 13.536, 10.176, -0.012, 765) -- Wave: 40,0 | Vtime: 765
-useAbility0("Support Caravan", 14.432, 10.250, 768) -- Wave: 40,0 | Vtime: 768
-useAbility0("Support Caravan", 14.432, 10.250, 768) -- Wave: 40,0 | Vtime: 768
-useAbility0("Support Caravan", 11.346, 10.872, 768) -- Wave: 40,0 | Vtime: 768
-useAbility0("Support Caravan", 8.338, 10.053, 768) -- Wave: 40,0 | Vtime: 768
-useAbility0("Support Caravan", 8.338, 10.053, 768) -- Wave: 40,0 | Vtime: 768
-useAbility0("Support Caravan", -4.766, 5.507, 769) -- Wave: 40,0 | Vtime: 769
-useAbility0("Support Caravan", -4.766, 5.507, 769) -- Wave: 40,0 | Vtime: 769
-useAbility0("Support Caravan", -4.656, 8.636, 769) -- Wave: 40,0 | Vtime: 769
-useAbility0("Support Caravan", -4.656, 8.636, 769) -- Wave: 40,0 | Vtime: 769
-useAbility0("Support Caravan", -4.718, 2.404, 769) -- Wave: 40,0 | Vtime: 769
-useAbility0("Call Of Arms", 14.432, 10.250, 770) -- Wave: 40,0 | Vtime: 770
-useAbility3("Hologram Tower", 16.613, 7.850, 5.744, 12.306, 10.093, 0.020, 787) -- Wave: 40,0 | Vtime: 777
-useAbility3("Hologram Tower", 8.168, 27.241, 5.744, 12.306, 6.758, -1.241, 792) -- Wave: 40,0 | Vtime: 782
-useAbility0("Call Of Arms", 8.338, 10.053, 783) -- Wave: 40,0 | Vtime: 783
-useAbility0("Call Of Arms", 11.346, 10.872, 790) -- Wave: 40,0 | Vtime: 790
-useAbility0("Call Of Arms", 14.432, 10.250, 796) -- Wave: 40,0 | Vtime: 796
-useAbility0("Support Caravan", 8.338, 10.053, 797) -- Wave: 40,0 | Vtime: 797
-useAbility0("Support Caravan", 8.338, 10.053, 797) -- Wave: 40,0 | Vtime: 797
-useAbility0("Support Caravan", 11.346, 10.872, 797) -- Wave: 40,0 | Vtime: 797
-useAbility0("Support Caravan", 11.346, 10.872, 797) -- Wave: 40,0 | Vtime: 797
-useAbility0("Support Caravan", 14.432, 10.250, 798) -- Wave: 40,0 | Vtime: 798
-useAbility0("Support Caravan", -4.656, 8.636, 798) -- Wave: 40,0 | Vtime: 798
-useAbility0("Support Caravan", -4.656, 8.636, 798) -- Wave: 40,0 | Vtime: 798
-useAbility0("Support Caravan", -4.766, 5.507, 798) -- Wave: 40,0 | Vtime: 798
-useAbility0("Support Caravan", -4.766, 5.507, 798) -- Wave: 40,0 | Vtime: 798
-useAbility0("Support Caravan", -4.718, 2.404, 798) -- Wave: 40,0 | Vtime: 798
-useAbility0("Support Caravan", -4.718, 2.404, 799) -- Wave: 40,0 | Vtime: 799
-useAbility0("Call Of Arms", 8.338, 10.053, 802) -- Wave: 40,0 | Vtime: 802
-useAbility0("Call Of Arms", -4.656, 8.636, 809) -- Wave: 40,0 | Vtime: 809
-useAbility0("Call Of Arms", -4.766, 5.507, 816) -- Wave: 40,0 | Vtime: 816
-useAbility3("Hologram Tower", 8.168, 27.241, 2.430, 10.704, 18.393, 11.141, 828) -- Wave: 40,0 | Vtime: 818
-useAbility3("Hologram Tower", 16.613, 7.850, 13.467, 13.536, 17.282, 14.859, 831) -- Wave: 40,0 | Vtime: 821
-useAbility0("Call Of Arms", 8.338, 10.053, 822) -- Wave: 40,0 | Vtime: 822
-useAbility0("Support Caravan", -4.656, 8.636, 826) -- Wave: 40,0 | Vtime: 826
-useAbility0("Support Caravan", -4.766, 5.507, 827) -- Wave: 40,0 | Vtime: 827
-useAbility0("Support Caravan", -4.766, 5.507, 827) -- Wave: 40,0 | Vtime: 827
-useAbility0("Support Caravan", 8.338, 10.053, 827) -- Wave: 40,0 | Vtime: 827
-useAbility0("Support Caravan", 8.338, 10.053, 827) -- Wave: 40,0 | Vtime: 827
-useAbility0("Support Caravan", -4.718, 2.404, 828) -- Wave: 40,0 | Vtime: 828
-useAbility0("Support Caravan", -4.718, 2.404, 828) -- Wave: 40,0 | Vtime: 828
-useAbility0("Support Caravan", 11.346, 10.872, 828) -- Wave: 40,0 | Vtime: 828
-useAbility0("Support Caravan", 11.346, 10.872, 828) -- Wave: 40,0 | Vtime: 828
-useAbility0("Support Caravan", 14.432, 10.250, 829) -- Wave: 40,0 | Vtime: 829
-useAbility0("Support Caravan", 14.432, 10.250, 829) -- Wave: 40,0 | Vtime: 829
-useAbility0("Support Caravan", 14.432, 10.250, 829) -- Wave: 40,0 | Vtime: 829
-useAbility0("Support Caravan", -4.656, 8.636, 860) -- Wave: 40,0 | Vtime: 826
-useAbility0("Support Caravan", -4.766, 5.507, 860) -- Wave: 40,0 | Vtime:  860
-useAbility0("Support Caravan", -4.766, 5.507, 860) -- Wave: 40,0 | Vtime:  860
-useAbility0("Support Caravan", 8.338, 10.053, 860) -- Wave: 40,0 | Vtime:  860
-useAbility0("Support Caravan", 8.338, 10.053, 860) -- Wave: 40,0 | Vtime:  860
-useAbility0("Support Caravan", -4.718, 2.404, 861) -- Wave: 40,0 | Vtime: 861
-useAbility0("Support Caravan", -4.718, 2.404, 861) -- Wave: 40,0 | Vtime: 861
-useAbility0("Support Caravan", 11.346, 10.872, 861) -- Wave: 40,0 | Vtime: 861
-useAbility0("Support Caravan", 11.346, 10.872, 861) -- Wave: 40,0 | Vtime: 861
-useAbility0("Support Caravan", 14.432, 10.250, 862) -- Wave: 40,0 | Vtime: 862
-useAbility0("Support Caravan", 14.432, 10.250, 862) -- Wave: 40,0 | Vtime: 862
-useAbility0("Support Caravan", 14.432, 10.250, 862) -- Wave: 40,0 | Vtime: 862
-useAbility0("Call Of Arms", 8.338, 10.053, 863) -- Wave: 40,0 | Vtime: 802
-useAbility0("Call Of Arms", -4.656, 8.636, 863) -- Wave: 40,0 | Vtime: 809
-useAbility0("Call Of Arms", -4.766, 5.507, 863) -- Wave: 40,0 | Vtime: 816
-useAbility0("Call Of Arms", 11.346, 10.872, 863) -- Wave: 40,0 | Vtime: 790
-useAbility0("Call Of Arms", 14.432, 10.250, 863) -- Wave: 40,0 | Vtime: 796
+PlaceTower("Cowboy", 10.495, 0.968, 20.078) -- Wave: 0,2 | Vtime: 4
+UpgradeTower(10.495, 20.078) -- Wave: 1,36 | Vtime: 9
+PlaceTower("Cowboy", 10.522, 0.970, 22.693) -- Wave: 2,44 | Vtime: 15
+UpgradeTower(10.522, 22.693) -- Wave: 2,4 | Vtime: 23
+PlaceTower("Cowboy", 10.536, 0.972, 25.408) -- Wave: 3,38 | Vtime: 27
+UpgradeTower(10.536, 25.408) -- Wave: 3,33 | Vtime: 30
+PlaceTower("Cowboy", 13.201, 0.975, 25.204) -- Wave: 3,1 | Vtime: 34
+UpgradeTower(13.201, 25.204) -- Wave: 4,40 | Vtime: 36
+PlaceTower("Cowboy", 15.702, 0.979, 25.111) -- Wave: 4,1 | Vtime: 43
+UpgradeTower(15.702, 25.111) -- Wave: 5,42 | Vtime: 44
+PlaceTower("Cowboy", 18.258, 0.982, 25.161) -- Wave: 5,33 | Vtime: 49
+UpgradeTower(18.258, 25.161) -- Wave: 5,4 | Vtime: 51
+PlaceTower("Hacker", 8.843, 0.971, 27.576) -- Wave: 6,43 | Vtime: 54
+UpgradeTower(8.843, 27.576) -- Wave: 6,41 | Vtime: 55
+UpgradeTower(8.843, 27.576) -- Wave: 6,29 | Vtime: 61
+UpgradeTower(10.495, 20.078) -- Wave: 7,36 | Vtime: 68
+UpgradeTower(10.495, 20.078) -- Wave: 7,2 | Vtime: 82
+UpgradeTower(10.522, 22.693) -- Wave: 8,37 | Vtime: 86
+UpgradeTower(10.522, 22.693) -- Wave: 9,30 | Vtime: 99
+UpgradeTower(10.536, 25.408) -- Wave: 9,2 | Vtime: 101
+UpgradeTower(10.536, 25.408) -- Wave: 10,23 | Vtime: 112
+UpgradeTower(13.201, 25.204) -- Wave: 10,4 | Vtime: 115
+UpgradeTower(13.201, 25.204) -- Wave: 11,32 | Vtime: 123
+UpgradeTower(15.702, 25.111) -- Wave: 11,26 | Vtime: 126
+UpgradeTower(15.702, 25.111) -- Wave: 12,33 | Vtime: 135
+UpgradeTower(18.258, 25.161) -- Wave: 12,30 | Vtime: 137
+UpgradeTower(18.258, 25.161) -- Wave: 13,0 | Vtime: 143
+UpgradeTower(8.843, 27.576) -- Wave: 14,37 | Vtime: 155
+UpgradeTower(10.495, 20.078) -- Wave: 14,4 | Vtime: 163
+UpgradeTower(10.522, 22.693) -- Wave: 15,50 | Vtime: 170
+UpgradeTower(10.536, 25.408) -- Wave: 15,33 | Vtime: 178
+UpgradeTower(13.201, 25.204) -- Wave: 15,1 | Vtime: 186
+UpgradeTower(15.702, 25.111) -- Wave: 16,48 | Vtime: 193
+UpgradeTower(18.258, 25.161) -- Wave: 17,51 | Vtime: 201
+UpgradeTower(10.536, 25.408) -- Wave: 18,45 | Vtime: 216
+UpgradeTower(13.201, 25.204) -- Wave: 19,42 | Vtime: 229
+UpgradeTower(15.702, 25.111) -- Wave: 20,79 | Vtime: 247
+UpgradeTower(18.258, 25.161) -- Wave: 20,4 | Vtime: 265
+PlaceTower("Ranger", 11.194, 3.994, 9.000) -- Wave: 21,56 | Vtime: 269
+UpgradeTower(11.194, 9.000) -- Wave: 21,52 | Vtime: 270
+PlaceTower("Ranger", 13.549, 4.359, 7.118) -- Wave: 21,45 | Vtime: 274
+UpgradeTower(13.549, 7.118) -- Wave: 21,43 | Vtime: 275
+PlaceTower("Ranger", 13.599, 4.326, 3.925) -- Wave: 21,39 | Vtime: 277
+UpgradeTower(13.599, 3.925) -- Wave: 21,38 | Vtime: 278
+UpgradeTower(11.194, 9.000) -- Wave: 21,35 | Vtime: 279
+UpgradeTower(13.549, 7.118) -- Wave: 22,48 | Vtime: 295
+UpgradeTower(13.599, 3.925) -- Wave: 22,43 | Vtime: 297
+UpgradeTower(10.495, 20.078) -- Wave: 22,2 | Vtime: 310
+UpgradeTower(10.522, 22.693) -- Wave: 23,39 | Vtime: 321
+PlaceTower("Ranger", 10.656, 4.487, 5.624) -- Wave: 24,48 | Vtime: 329
+UpgradeTower(10.656, 5.624) -- Wave: 24,46 | Vtime: 330
+UpgradeTower(10.656, 5.624) -- Wave: 24,45 | Vtime: 330
+PlaceTower("Ranger", 1.978, 4.906, 2.829) -- Wave: 24,42 | Vtime: 332
+UpgradeTower(1.978, 2.829) -- Wave: 24,41 | Vtime: 333
+UpgradeTower(1.978, 2.829) -- Wave: 24,40 | Vtime: 333
+PlaceTower("Ranger", 3.327, 4.881, 5.542) -- Wave: 24,36 | Vtime: 335
+UpgradeTower(3.327, 5.542) -- Wave: 24,33 | Vtime: 336
+UpgradeTower(3.327, 5.542) -- Wave: 24,24 | Vtime: 341
+PlaceTower("Ranger", 5.005, 4.322, 1.587) -- Wave: 24,17 | Vtime: 344
+UpgradeTower(5.005, 1.587) -- Wave: 24,15 | Vtime: 346
+UpgradeTower(5.005, 1.587) -- Wave: 25,57 | Vtime: 352
+PlaceTower("Ranger", 6.231, 4.679, 4.589) -- Wave: 25,53 | Vtime: 354
+UpgradeTower(6.231, 4.589) -- Wave: 25,49 | Vtime: 356
+UpgradeTower(6.231, 4.589) -- Wave: 25,46 | Vtime: 358
+PlaceTower("Commander", 15.306, 0.960, 9.496) -- Wave: 26,53 | Vtime: 368
+UpgradeTower(15.306, 9.496) -- Wave: 26,50 | Vtime: 369
+UpgradeTower(15.306, 9.496) -- Wave: 26,49 | Vtime: 370
+UpgradeTower(15.306, 9.496) -- Wave: 26,48 | Vtime: 370
+UpgradeTower(15.306, 9.496) -- Wave: 26,46 | Vtime: 371
+UpgradeTower(11.194, 9.000) -- Wave: 26,36 | Vtime: 376
+UpgradeTower(13.549, 7.118) -- Wave: 26,2 | Vtime: 379
+useAbility0("Call Of Arms", 15.306, 9.496, 382) -- Wave: 27,55 | Vtime: 382
+UpgradeTower(10.656, 5.624) -- Wave: 27,45 | Vtime: 388
+UpgradeTower(13.599, 3.925) -- Wave: 27,5 | Vtime: 391
+UpgradeTower(6.231, 4.589) -- Wave: 28,41 | Vtime: 402
+UpgradeTower(3.327, 5.542) -- Wave: 28,32 | Vtime: 407
+UpgradeTower(1.978, 2.829) -- Wave: 28,24 | Vtime: 411
+UpgradeTower(5.005, 1.587) -- Wave: 28,1 | Vtime: 416
+PlaceTower("Commander", 12.401, 0.942, 10.715) -- Wave: 29,49 | Vtime: 422
+UpgradeTower(12.401, 10.715) -- Wave: 29,47 | Vtime: 423
+UpgradeTower(12.401, 10.715) -- Wave: 29,46 | Vtime: 424
+UpgradeTower(12.401, 10.715) -- Wave: 29,45 | Vtime: 424
+UpgradeTower(12.401, 10.715) -- Wave: 29,42 | Vtime: 426
+PlaceTower("Commander", 9.253, 0.927, 10.768) -- Wave: 29,32 | Vtime: 431
+UpgradeTower(9.253, 10.768) -- Wave: 29,30 | Vtime: 432
+UpgradeTower(9.253, 10.768) -- Wave: 29,29 | Vtime: 432
+useAbility0("Call Of Arms", 12.401, 10.715, 434) -- Wave: 29,25 | Vtime: 434
+UpgradeTower(9.253, 10.768) -- Wave: 29,22 | Vtime: 436
+UpgradeTower(9.253, 10.768) -- Wave: 29,1 | Vtime: 440
+PlaceTower("Hacker", 17.208, 0.977, 6.764) -- Wave: 30,85 | Vtime: 443
+UpgradeTower(17.208, 6.764) -- Wave: 30,83 | Vtime: 444
+UpgradeTower(17.208, 6.764) -- Wave: 30,82 | Vtime: 444
+UpgradeTower(17.208, 6.764) -- Wave: 30,80 | Vtime: 445
+PlaceTower("Accelerator", 14.844, 0.945, 13.182) -- Wave: 31,85 | Vtime: 455
+UpgradeTower(14.844, 13.182) -- Wave: 31,81 | Vtime: 457
+UpgradeTower(14.844, 13.182) -- Wave: 31,80 | Vtime: 458
+UpgradeTower(14.844, 13.182) -- Wave: 31,78 | Vtime: 459
+UpgradeTower(14.844, 13.182) -- Wave: 31,75 | Vtime: 460
+PlaceTower("Accelerator", 10.938, 0.924, 13.854) -- Wave: 31,68 | Vtime: 464
+UpgradeTower(10.938, 13.854) -- Wave: 31,66 | Vtime: 465
+UpgradeTower(10.938, 13.854) -- Wave: 31,62 | Vtime: 467
+UpgradeTower(10.938, 13.854) -- Wave: 31,1 | Vtime: 469
+UpgradeTower(10.938, 13.854) -- Wave: 32,87 | Vtime: 471
+PlaceTower("Accelerator", 7.254, 0.908, 13.483) -- Wave: 32,79 | Vtime: 475
+UpgradeTower(7.254, 13.483) -- Wave: 32,77 | Vtime: 476
+UpgradeTower(7.254, 13.483) -- Wave: 32,76 | Vtime: 477
+UpgradeTower(7.254, 13.483) -- Wave: 32,74 | Vtime: 477
+UpgradeTower(7.254, 13.483) -- Wave: 32,58 | Vtime: 485
+PlaceTower("Accelerator", 6.246, 0.917, 9.497) -- Wave: 32,49 | Vtime: 489
+UpgradeTower(6.246, 9.497) -- Wave: 32,46 | Vtime: 491
+UpgradeTower(6.246, 9.497) -- Wave: 32,2 | Vtime: 494
+UpgradeTower(6.246, 9.497) -- Wave: 33,84 | Vtime: 498
+useAbility0("Call Of Arms", 9.253, 10.768, 501) -- Wave: 33,78 | Vtime: 501
+UpgradeTower(6.246, 9.497) -- Wave: 33,71 | Vtime: 504
+PlaceTower("Accelerator", 3.786, 0.924, 12.112) -- Wave: 34,88 | Vtime: 510
+UpgradeTower(3.786, 12.112) -- Wave: 34,86 | Vtime: 511
+UpgradeTower(3.786, 12.112) -- Wave: 34,85 | Vtime: 511
+UpgradeTower(3.786, 12.112) -- Wave: 34,80 | Vtime: 513
+UpgradeTower(3.786, 12.112) -- Wave: 34,69 | Vtime: 519
+useAbility0("Call Of Arms", 12.401, 10.715, 520) -- Wave: 34,65 | Vtime: 520
+UpgradeTower(13.599, 3.925) -- Wave: 34,48 | Vtime: 529
+UpgradeTower(13.549, 7.118) -- Wave: 34,41 | Vtime: 533
+UpgradeTower(10.656, 5.624) -- Wave: 34,35 | Vtime: 536
+setTarget("Last", 10.656, 5.624, 537) -- Wave: 34,33 | Vtime: 537
+setTarget("Last", 13.599, 3.925, 539) -- Wave: 34,2 | Vtime: 539
+setTarget("Last", 13.549, 7.118, 541) -- Wave: 35,148 | Vtime: 541
+setTarget("Last", 11.194, 9.000, 543) -- Wave: 35,144 | Vtime: 543
+UpgradeTower(11.194, 9.000) -- Wave: 35,115 | Vtime: 557
+UpgradeTower(1.978, 2.829) -- Wave: 35,103 | Vtime: 563
+useAbility0("Call Of Arms", 9.253, 10.768, 566) -- Wave: 35,97 | Vtime: 566
+UpgradeTower(5.005, 1.587) -- Wave: 35,85 | Vtime: 572
+UpgradeTower(3.327, 5.542) -- Wave: 35,83 | Vtime: 573
+useAbility0("Support Caravan", 9.253, 10.768, 574) -- Wave: 35,81 | Vtime: 574
+useAbility0("Support Caravan", 12.401, 10.715, 574) -- Wave: 35,80 | Vtime: 574
+useAbility0("Support Caravan", 12.401, 10.715, 574) -- Wave: 35,80 | Vtime: 574
+useAbility0("Support Caravan", 15.306, 9.496, 574) -- Wave: 35,80 | Vtime: 574
+useAbility0("Support Caravan", 9.253, 10.768, 575) -- Wave: 35,79 | Vtime: 575
+UpgradeTower(6.231, 4.589) -- Wave: 35,59 | Vtime: 585
+setTarget("First", 13.599, 3.925, 588) -- Wave: 35,52 | Vtime: 588
+setTarget("First", 10.656, 5.624, 590) -- Wave: 35,47 | Vtime: 590
+setTarget("First", 13.549, 7.118, 594) -- Wave: 36,89 | Vtime: 594
+setTarget("First", 11.194, 9.000, 596) -- Wave: 36,84 | Vtime: 596
+UpgradeTower(17.208, 6.764) -- Wave: 36,72 | Vtime: 602
+UpgradeTower(8.843, 27.576) -- Wave: 36,59 | Vtime: 607
+UpgradeTower(14.844, 13.182) -- Wave: 36,1 | Vtime: 615
+UpgradeTower(10.938, 13.854) -- Wave: 37,117 | Vtime: 617
+UpgradeTower(7.254, 13.483) -- Wave: 37,86 | Vtime: 632
+UpgradeTower(3.786, 12.112) -- Wave: 38,146 | Vtime: 639
+UpgradeTower(6.246, 9.497) -- Wave: 38,120 | Vtime: 652
+UpgradeTower1(8.843, 27.576) -- Wave: 38,109 | Vtime: 657
+UpgradeTower1(17.208, 6.764) -- Wave: 38,82 | Vtime: 670
+PlaceTower("Commander", -4.505, 0.950, 0.575) -- Wave: 38,67 | Vtime: 678
+UpgradeTower(-4.505, 0.575) -- Wave: 38,65 | Vtime: 679
+UpgradeTower(-4.505, 0.575) -- Wave: 38,64 | Vtime: 679
+UpgradeTower(-4.505, 0.575) -- Wave: 38,63 | Vtime: 680
+UpgradeTower(-4.505, 0.575) -- Wave: 38,62 | Vtime: 681
+useAbility0("Support Caravan", -4.505, 0.575, 684) -- Wave: 38,55 | Vtime: 684
+useAbility0("Support Caravan", 9.253, 10.768, 684) -- Wave: 38,55 | Vtime: 684
+useAbility0("Support Caravan", 12.401, 10.715, 684) -- Wave: 38,54 | Vtime: 684
+useAbility0("Support Caravan", 15.306, 9.496, 685) -- Wave: 38,4 | Vtime: 685
+PlaceTower("Commander", -4.810, 0.940, 3.748) -- Wave: 39,115 | Vtime: 689
+UpgradeTower(-4.810, 3.748) -- Wave: 39,112 | Vtime: 690
+UpgradeTower(-4.810, 3.748) -- Wave: 39,111 | Vtime: 691
+UpgradeTower(-4.810, 3.748) -- Wave: 39,110 | Vtime: 692
+UpgradeTower(-4.810, 3.748) -- Wave: 39,108 | Vtime: 693
+PlaceTower("Commander", -4.786, 0.929, 6.848) -- Wave: 39,101 | Vtime: 696
+UpgradeTower(-4.786, 6.848) -- Wave: 39,99 | Vtime: 698
+UpgradeTower(-4.786, 6.848) -- Wave: 39,95 | Vtime: 699
+UpgradeTower(-4.786, 6.848) -- Wave: 39,94 | Vtime: 699
+UpgradeTower(-4.786, 6.848) -- Wave: 39,88 | Vtime: 702
+useAbility0("Support Caravan", 15.306, 9.496, 717) -- Wave: 39,55 | Vtime: 717
+useAbility0("Support Caravan", 15.306, 9.496, 717) -- Wave: 39,55 | Vtime: 717
+useAbility0("Support Caravan", 15.306, 9.496, 717) -- Wave: 39,54 | Vtime: 717
+useAbility0("Support Caravan", 12.401, 10.715, 717) -- Wave: 39,54 | Vtime: 717
+useAbility0("Support Caravan", 9.253, 10.768, 717) -- Wave: 39,53 | Vtime: 717
+useAbility0("Support Caravan", -4.786, 6.848, 718) -- Wave: 39,53 | Vtime: 718
+useAbility0("Support Caravan", -4.810, 3.748, 718) -- Wave: 39,53 | Vtime: 718
+useAbility0("Support Caravan", -4.505, 0.575, 718) -- Wave: 39,52 | Vtime: 718
+useAbility0("Support Caravan", -4.505, 0.575, 718) -- Wave: 39,52 | Vtime: 718
+useAbility0("Call Of Arms", 15.306, 9.496, 719) -- Wave: 39,51 | Vtime: 719
+useAbility3("Hologram Tower", 17.208, 6.764, 14.844, 13.182, 18.542, 10.063, 728) -- Wave: 40,0 | Vtime: 728
+useAbility3("Hologram Tower", 8.843, 27.576, 14.844, 13.182, 18.464, 13.907, 732) -- Wave: 40,0 | Vtime: 732
+useAbility0("Call Of Arms", 15.306, 9.496, 734) -- Wave: 40,0 | Vtime: 734
+useAbility0("Support Caravan", 15.306, 9.496, 746) -- Wave: 40,0 | Vtime: 746
+useAbility0("Support Caravan", 12.401, 10.715, 747) -- Wave: 40,0 | Vtime: 747
+useAbility0("Support Caravan", 12.401, 10.715, 747) -- Wave: 40,0 | Vtime: 747
+useAbility0("Support Caravan", 9.253, 10.768, 747) -- Wave: 40,0 | Vtime: 747
+useAbility0("Support Caravan", -4.786, 6.848, 748) -- Wave: 40,0 | Vtime: 748
+useAbility0("Support Caravan", -4.810, 3.748, 748) -- Wave: 40,0 | Vtime: 748
+useAbility0("Support Caravan", -4.505, 0.575, 749) -- Wave: 40,0 | Vtime: 749
+useAbility0("Call Of Arms", 15.306, 9.496, 752) -- Wave: 40,0 | Vtime: 752
+useAbility0("Call Of Arms", 12.401, 10.715, 761) -- Wave: 40,0 | Vtime: 761
+useAbility3("Hologram Tower", 17.208, 6.764, 14.844, 13.182, 12.482, 1.160, 767) -- Wave: 40,0 | Vtime: 767
+useAbility3("Hologram Tower", 8.843, 27.576, 14.844, 13.182, 9.092, -0.087, 777) -- Wave: 40,0 | Vtime: 777
+useAbility0("Support Caravan", 15.306, 9.496, 779) -- Wave: 40,0 | Vtime: 779
+useAbility0("Support Caravan", 15.306, 9.496, 779) -- Wave: 40,0 | Vtime: 779
+useAbility0("Support Caravan", 12.401, 10.715, 779) -- Wave: 40,0 | Vtime: 779
+useAbility0("Support Caravan", 12.401, 10.715, 779) -- Wave: 40,0 | Vtime: 779
+useAbility0("Support Caravan", 9.253, 10.768, 780) -- Wave: 40,0 | Vtime: 780
+useAbility0("Support Caravan", 9.253, 10.768, 780) -- Wave: 40,0 | Vtime: 780
+useAbility0("Support Caravan", 9.253, 10.768, 780) -- Wave: 40,0 | Vtime: 780
+useAbility0("Support Caravan", 9.253, 10.768, 781) -- Wave: 40,0 | Vtime: 781
+useAbility0("Support Caravan", 9.253, 10.768, 781) -- Wave: 40,0 | Vtime: 781
+useAbility0("Support Caravan", -4.786, 6.848, 782) -- Wave: 40,0 | Vtime: 782
+useAbility0("Support Caravan", -4.786, 6.848, 782) -- Wave: 40,0 | Vtime: 782
+useAbility0("Support Caravan", -4.786, 6.848, 782) -- Wave: 40,0 | Vtime: 782
+useAbility0("Support Caravan", -4.786, 6.848, 782) -- Wave: 40,0 | Vtime: 782
+useAbility0("Support Caravan", -4.786, 6.848, 782) -- Wave: 40,0 | Vtime: 782
+useAbility0("Support Caravan", -4.786, 6.848, 782) -- Wave: 40,0 | Vtime: 782
+useAbility0("Support Caravan", -4.786, 6.848, 782) -- Wave: 40,0 | Vtime: 782
+useAbility0("Support Caravan", -4.786, 6.848, 783) -- Wave: 40,0 | Vtime: 783
+useAbility0("Support Caravan", -4.810, 3.748, 783) -- Wave: 40,0 | Vtime: 783
+useAbility0("Support Caravan", -4.505, 0.575, 783) -- Wave: 40,0 | Vtime: 783
+useAbility0("Support Caravan", 9.253, 10.768, 783) -- Wave: 40,0 | Vtime: 783
+useAbility0("Call Of Arms", 15.306, 9.496, 784) -- Wave: 40,0 | Vtime: 784
+useAbility0("Call Of Arms", 15.306, 9.496, 797) -- Wave: 40,0 | Vtime: 797
+useAbility0("Call Of Arms", 12.401, 10.715, 805) -- Wave: 40,0 | Vtime: 805
+useAbility3("Hologram Tower", 17.208, 6.764, 14.844, 13.182, 18.633, 9.884, 812) -- Wave: 40,0 | Vtime: 812
+useAbility3("Hologram Tower", 8.843, 27.576, 14.844, 13.182, 18.388, 13.551, 816) -- Wave: 40,0 | Vtime: 816
+useAbility0("Call Of Arms", 15.306, 9.496, 818) -- Wave: 40,0 | Vtime: 818
+useAbility0("Support Caravan", 15.306, 9.496, 819) -- Wave: 40,0 | Vtime: 819
+useAbility0("Support Caravan", 15.306, 9.496, 819) -- Wave: 40,0 | Vtime: 819
+useAbility0("Support Caravan", 12.401, 10.715, 819) -- Wave: 40,0 | Vtime: 819
+useAbility0("Support Caravan", 9.253, 10.768, 819) -- Wave: 40,0 | Vtime: 819
+useAbility0("Support Caravan", 9.253, 10.768, 819) -- Wave: 40,0 | Vtime: 819
+useAbility0("Support Caravan", -4.786, 6.848, 820) -- Wave: 40,0 | Vtime: 820
+useAbility0("Support Caravan", -4.786, 6.848, 820) -- Wave: 40,0 | Vtime: 820
+useAbility0("Support Caravan", -4.810, 3.748, 820) -- Wave: 40,0 | Vtime: 820
+useAbility0("Support Caravan", -4.810, 3.748, 820) -- Wave: 40,0 | Vtime: 820
+useAbility0("Support Caravan", -4.505, 0.575, 820) -- Wave: 40,0 | Vtime: 820
+useAbility0("Support Caravan", -4.505, 0.575, 820) -- Wave: 40,0 | Vtime: 820
+useAbility0("Call Of Arms", -4.505, 0.575, 826) -- Wave: 40,0 | Vtime: 826
+useAbility0("Call Of Arms", 12.401, 10.715, 830) -- Wave: 40,0 | Vtime: 830
+useAbility0("Call Of Arms", 9.253, 10.768, 836) -- Wave: 40,0 | Vtime: 836
+useAbility0("Call Of Arms", -4.786, 6.848, 844) -- Wave: 40,0 | Vtime: 844
+useAbility0("Support Caravan", 9.253, 10.768, 846) -- Wave: 40,0 | Vtime: 846
+useAbility0("Support Caravan", -4.786, 6.848, 846) -- Wave: 40,0 | Vtime: 846
+useAbility0("Support Caravan", -4.786, 6.848, 847) -- Wave: 40,0 | Vtime: 847
+useAbility0("Support Caravan", -4.786, 6.848, 847) -- Wave: 40,0 | Vtime: 847
+useAbility0("Support Caravan", -4.786, 6.848, 847) -- Wave: 40,0 | Vtime: 847
+useAbility0("Support Caravan", 12.401, 10.715, 847) -- Wave: 40,0 | Vtime: 847
+useAbility0("Support Caravan", -4.810, 3.748, 847) -- Wave: 40,0 | Vtime: 847
+useAbility0("Support Caravan", 15.306, 9.496, 848) -- Wave: 40,0 | Vtime: 848
+useAbility0("Support Caravan", -4.505, 0.575, 848) -- Wave: 40,0 | Vtime: 848
+useAbility0("Support Caravan", 9.253, 10.768, 848) -- Wave: 40,0 | Vtime: 848
+useAbility3("Hologram Tower", 17.208, 6.764, 14.844, 13.182, 8.309, -0.895, 855) -- Wave: 40,0 | Vtime: 855
+useAbility3("Hologram Tower", 8.843, 27.576, 14.844, 13.182, 11.800, 0.435, 861) -- Wave: 40,0 | Vtime: 861
+useAbility0("Call Of Arms", 9.253, 10.768, 862) -- Wave: 40,0 | Vtime: 862
+useAbility0("Call Of Arms", -4.786, 6.848, 872) -- Wave: 40,0 | Vtime: 872
+useAbility0("Support Caravan", 9.253, 10.768, 874) -- Wave: 40,0 | Vtime: 874
+useAbility0("Support Caravan", -4.786, 6.848, 874) -- Wave: 40,0 | Vtime: 874
+useAbility0("Support Caravan", -4.810, 3.748, 875) -- Wave: 40,0 | Vtime: 875
+useAbility0("Support Caravan", -4.505, 0.575, 875) -- Wave: 40,0 | Vtime: 875
+useAbility0("Support Caravan", 12.401, 10.715, 875) -- Wave: 40,0 | Vtime: 875
+useAbility0("Support Caravan", 15.306, 9.496, 875) -- Wave: 40,0 | Vtime: 875
+useAbility0("Call Of Arms", -4.810, 3.748, 885) -- Wave: 40,0 | Vtime: 885
+useAbility3("Hologram Tower", 17.208, 6.764, 14.844, 13.182, 18.802, 10.706, 890) -- Wave: 40,4 | Vtime: 890
+useAbility3("Hologram Tower", 8.843, 27.576, 14.844, 13.182, 18.222, 14.169, 896) -- Wave: 40,0 | Vtime: 896
+useAbility0("Call Of Arms", 15.306, 9.496, 897) -- Wave: 40,0 | Vtime: 897
+useAbility0("Support Caravan", 15.306, 9.496, 903) -- Wave: 40,0 | Vtime: 903
+useAbility0("Support Caravan", 12.401, 10.715, 903) -- Wave: 40,0 | Vtime: 903
+useAbility0("Support Caravan", 9.253, 10.768, 903) -- Wave: 40,0 | Vtime: 903
+useAbility0("Support Caravan", -4.505, 0.575, 904) -- Wave: 40,0 | Vtime: 904
+useAbility0("Support Caravan", -4.505, 0.575, 904) -- Wave: 40,0 | Vtime: 904
+useAbility0("Support Caravan", -4.810, 3.748, 904) -- Wave: 40,0 | Vtime: 904
+useAbility0("Support Caravan", -4.786, 6.848, 904) -- Wave: 40,0 | Vtime: 904
+useAbility0("Support Caravan", -4.786, 6.848, 904) -- Wave: 40,0 | Vtime: 904
+useAbility0("Call Of Arms", 12.401, 10.715, 905) -- Wave: 40,0 | Vtime: 905
+useAbility0("Call Of Arms", 9.253, 10.768, 907) -- Wave: 40,0 | Vtime: 907
+useAbility0("Call Of Arms", -4.810, 3.748, 907) -- Wave: 40,0 | Vtime: 907
+useAbility0("Call Of Arms", -4.786, 6.848, 908) -- Wave: 40,0 | Vtime: 908
+useAbility0("Call Of Arms", -4.505, 0.575, 908) -- Wave: 40,0 | Vtime: 908
+useAbility0("Call Of Arms", 15.306, 9.496, 914) -- Wave: 40,0 | Vtime: 914
+useAbility0("Call Of Arms", 12.401, 10.715, 920) -- Wave: 40,0 | Vtime: 920
+useAbility0("Hologram Tower", 17.208, 6.764, 925) -- Wave: 40,0 | Vtime: 925
+useAbility0("Call Of Arms", 9.253, 10.768, 926) -- Wave: 40,0 | Vtime: 926
+useAbility0("Call Of Arms", -4.786, 6.848, 926) -- Wave: 40,0 | Vtime: 926
+useAbility0("Call Of Arms", -4.505, 0.575, 926) -- Wave: 40,0 | Vtime: 926
+useAbility0("Call Of Arms", -4.810, 3.748, 927) -- Wave: 40,0 | Vtime: 927
+useAbility0("Call Of Arms", 15.306, 9.496, 927) -- Wave: 40,0 | Vtime: 927
+useAbility0("Call Of Arms", 15.306, 9.496, 928) -- Wave: 40,0 | Vtime: 928
+useAbility3("Hologram Tower", 17.208, 6.764, 14.844, 13.182, 7.695, -1.195, 932) -- Wave: 40,0 | Vtime: 932
+useAbility3("Hologram Tower", 8.843, 27.576, 10.938, 13.854, 11.328, 0.291, 935) -- Wave: 40,0 | Vtime: 935
+useAbility0("Support Caravan", 15.306, 9.496, 936) -- Wave: 40,0 | Vtime: 936
+useAbility0("Support Caravan", 12.401, 10.715, 936) -- Wave: 40,0 | Vtime: 936
+useAbility0("Support Caravan", 12.401, 10.715, 936) -- Wave: 40,0 | Vtime: 936
+useAbility0("Support Caravan", 9.253, 10.768, 936) -- Wave: 40,0 | Vtime: 936
+useAbility0("Support Caravan", -4.505, 0.575, 936) -- Wave: 40,0 | Vtime: 936
+useAbility0("Support Caravan", -4.810, 3.748, 937) -- Wave: 40,0 | Vtime: 937
+useAbility0("Support Caravan", -4.786, 6.848, 937) -- Wave: 40,0 | Vtime: 937
+useAbility0("Support Caravan", -4.786, 6.848, 937) -- Wave: 40,0 | Vtime: 937
+useAbility0("Call Of Arms", 12.401, 10.715, 938) -- Wave: 40,0 | Vtime: 938
